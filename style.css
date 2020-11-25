@@ -1,0 +1,26 @@
+body{
+	background-color: #F7F9FC;
+}
+
+a{
+	text-decoration: none;
+	color: grey;
+}
+
+h2 {
+	color: brown;
+	font-family: arial;
+	font-size: 24px;
+}
+
+.card {
+	text-align: center;
+	background-color: white;
+	padding: 30px;
+	margin: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1); 
+}
+.room {
+	width: 600px;
+	margin: 0 auto;
+}
